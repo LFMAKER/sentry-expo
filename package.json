@@ -1,5 +1,5 @@
 {
-  "name": "sentry-expo",
+  "name": "sentry-expo-mm",
   "version": "4.0.5",
   "description": "Catch your Javascript errors for your production Expo apps!",
   "main": "build/index.js",
@@ -26,7 +26,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/expo/sentry-expo.git"
+    "url": "git+https://github.com/expo/sentry-expo.git"
   },
   "bugs": {
     "url": "https://github.com/expo/sentry-expo/issues"
